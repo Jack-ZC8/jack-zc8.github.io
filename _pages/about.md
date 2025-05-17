@@ -39,9 +39,21 @@ My research area lies at:
 <span class='anchor' id='publications'></span>
 # 📝 Publications
 
+**Towards Omni-RAG: Comprehensive Retrieval-Augmented Generation for Large Language Models in Medical Applications**
+- `Zhe Chen`, Yusheng Liao, Shuyang Jiang, Pingjie Wang, Yiqiu Guo, Yanfeng Wang, Yu Wang<sup>✉️</sup>
+- [ACL 2025 Main] [[paper]](https://arxiv.org/abs/2501.02460)
+
+**EvolveBench: A Comprehensive Benchmark for Assessing Temporal Awareness in LLMs on Evolving Knowledge**
+- Zhiyuan Zhu*, Yusheng Liao*, `Zhe Chen`, Yuhao Wang, Yunfeng Guan<sup>✉️</sup>, Yanfeng Wang, Yu Wang<sup>✉️</sup>
+- [ACL 2025 Main] [[paper]](#)
+
+**Reconstruct the Pruned Model Without Retraining**
+- Pingjie Wang, Ziqing Fan, Shengchao Hu, `Zhe Chen`, Yanfeng Wang, Yu Wang<sup>✉️</sup>
+- [JSTSP 2025 (Journal)] [[paper]](https://ieeexplore.ieee.org/document/11002425)
+
 **MedCare: Advancing Medical LLMs through Decoupling Clinical Alignment and Knowledge Aggregation**
-- Yusheng Liao, Shuyang Jiang, `Zhe Chen`, Yanfeng Wang, Yu Wang<sup>✉️</sup>
-- [EMNLP 2024] [[paper]](https://aclanthology.org/2024.findings-emnlp.619/)
+- Yusheng Liao*, Shuyang Jiang*, `Zhe Chen`, Yanfeng Wang, Yu Wang<sup>✉️</sup>
+- [EMNLP Findings 2024] [[paper]](https://aclanthology.org/2024.findings-emnlp.619/)
 
 **MSG-BART: Multi-Granularity Scene Graph-Enhanced Encoder-Decoder Language Model for Video-Grounded Dialogue Generation**
 - Hongcheng Liu, `Zhe Chen`, Hui Li, Pingjie Wang, Yanfeng Wang, Yu Wang<sup>✉️</sup>
@@ -49,7 +61,7 @@ My research area lies at:
 
 **M<sup>3</sup>AV: A Multimodal, Multigenre, and Multipurpose Audio-Visual Academic Lecture Dataset**
 - `Zhe Chen`, Heyang Liu, Wenyi Yu, Guangzhi Sun, Hongcheng Liu, Ji Wu, Chao Zhang<sup>✉️</sup>, Yu Wang<sup>✉️</sup>, Yanfeng Wang
-- [ACL 2024] [[paper]](https://aclanthology.org/2024.acl-long.489/) [[project]](https://jack-zc8.github.io/M3AV-dataset-page) [**[机器之心]**](https://mp.weixin.qq.com/s/UQ2P5AFm7yhjFm2lc70O8g)
+- [ACL Main 2024] [[paper]](https://aclanthology.org/2024.acl-long.489/) [[project]](https://jack-zc8.github.io/M3AV-dataset-page) [**[机器之心]**](https://mp.weixin.qq.com/s/UQ2P5AFm7yhjFm2lc70O8g)
 
 **Towards Optimizing Pre-trained Language Model Ensemble Learning for Task-oriented Dialogue System**
 - Zhiyuan Zhu, Yusheng Liao, `Zhe Chen`, Yu Wang<sup>✉️</sup>, Yunfeng Guan<sup>✉️</sup>
@@ -57,7 +69,7 @@ My research area lies at:
 
 **DialogMCF: Multimodal Context Flow for Audio Visual Scene-Aware Dialog**
 - `Zhe Chen`, Hongcheng Liu, Yu Wang<sup>✉️</sup>
-- [TASLP (SCI Top Journal)] [[paper]](https://ieeexplore.ieee.org/document/10147255)
+- [TASLP 2023 (Journal)] [[paper]](https://ieeexplore.ieee.org/document/10147255)
 
 
 <span class='anchor' id='awards'></span>
