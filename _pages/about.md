@@ -44,7 +44,7 @@ My research area lies at:
 - [ACL 2025 Main] [[paper]](https://arxiv.org/abs/2501.02460)
 
 **EvolveBench: A Comprehensive Benchmark for Assessing Temporal Awareness in LLMs on Evolving Knowledge**
-- Zhiyuan Zhu*, Yusheng Liao*, `Zhe Chen`, Yuhao Wang, Yunfeng Guan<sup>✉️</sup>, Yanfeng Wang, Yu Wang<sup>✉️</sup>
+- Zhiyuan Zhu\*, Yusheng Liao\*, `Zhe Chen`, Yuhao Wang, Yunfeng Guan<sup>✉️</sup>, Yanfeng Wang, Yu Wang<sup>✉️</sup>
 - [ACL 2025 Main] [[paper]](#)
 
 **Reconstruct the Pruned Model Without Retraining**
@@ -52,7 +52,7 @@ My research area lies at:
 - [JSTSP 2025 (Journal)] [[paper]](https://ieeexplore.ieee.org/document/11002425)
 
 **MedCare: Advancing Medical LLMs through Decoupling Clinical Alignment and Knowledge Aggregation**
-- Yusheng Liao*, Shuyang Jiang*, `Zhe Chen`, Yanfeng Wang, Yu Wang<sup>✉️</sup>
+- Yusheng Liao\*, Shuyang Jiang\*, `Zhe Chen`, Yanfeng Wang, Yu Wang<sup>✉️</sup>
 - [EMNLP Findings 2024] [[paper]](https://aclanthology.org/2024.findings-emnlp.619/)
 
 **MSG-BART: Multi-Granularity Scene Graph-Enhanced Encoder-Decoder Language Model for Video-Grounded Dialogue Generation**
