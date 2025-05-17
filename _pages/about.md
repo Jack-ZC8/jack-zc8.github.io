@@ -53,7 +53,7 @@ My research area lies at:
 
 **MedCare: Advancing Medical LLMs through Decoupling Clinical Alignment and Knowledge Aggregation**
 - Yusheng Liao\*, Shuyang Jiang\*, `Zhe Chen`, Yanfeng Wang, Yu Wang<sup>✉️</sup>
-- [EMNLP Findings 2024] [[paper]](https://aclanthology.org/2024.findings-emnlp.619/)
+- [EMNLP 2024 Findings] [[paper]](https://aclanthology.org/2024.findings-emnlp.619/)
 
 **MSG-BART: Multi-Granularity Scene Graph-Enhanced Encoder-Decoder Language Model for Video-Grounded Dialogue Generation**
 - Hongcheng Liu, `Zhe Chen`, Hui Li, Pingjie Wang, Yanfeng Wang, Yu Wang<sup>✉️</sup>
@@ -61,7 +61,7 @@ My research area lies at:
 
 **M<sup>3</sup>AV: A Multimodal, Multigenre, and Multipurpose Audio-Visual Academic Lecture Dataset**
 - `Zhe Chen`, Heyang Liu, Wenyi Yu, Guangzhi Sun, Hongcheng Liu, Ji Wu, Chao Zhang<sup>✉️</sup>, Yu Wang<sup>✉️</sup>, Yanfeng Wang
-- [ACL Main 2024] [[paper]](https://aclanthology.org/2024.acl-long.489/) [[project]](https://jack-zc8.github.io/M3AV-dataset-page) [**[机器之心]**](https://mp.weixin.qq.com/s/UQ2P5AFm7yhjFm2lc70O8g)
+- [ACL 2024 Main] [[paper]](https://aclanthology.org/2024.acl-long.489/) [[project]](https://jack-zc8.github.io/M3AV-dataset-page) [**[机器之心]**](https://mp.weixin.qq.com/s/UQ2P5AFm7yhjFm2lc70O8g)
 
 **Towards Optimizing Pre-trained Language Model Ensemble Learning for Task-oriented Dialogue System**
 - Zhiyuan Zhu, Yusheng Liao, `Zhe Chen`, Yu Wang<sup>✉️</sup>, Yunfeng Guan<sup>✉️</sup>
