@@ -41,6 +41,10 @@ My research area lies at:
 - `Zhe Chen`, Yusheng Liao, Shuyang Jiang, Pingjie Wang, Yiqiu Guo, Yanfeng Wang, Yu Wang<sup>✉️</sup>
 - [ACL 2025 Main] [[link]](https://aclanthology.org/2025.acl-long.742/)
 
+**HeteroRAG: A Heterogeneous Retrieval-Augmented Generation Framework for Medical Vision Language Tasks**
+- `Zhe Chen`, Yusheng Liao, Shuyang Jiang, Zhiyuan Zhu, Haolin Li, Yanfeng Wang, Yu Wang<sup>✉️</sup>
+- [Arxiv Preprint 2025] [[link]](https://arxiv.org/abs/2508.12778)
+
 **M<sup>3</sup>AV: A Multimodal, Multigenre, and Multipurpose Audio-Visual Academic Lecture Dataset**
 - `Zhe Chen`, Heyang Liu, Wenyi Yu, Guangzhi Sun, Hongcheng Liu, Ji Wu, Chao Zhang<sup>✉️</sup>, Yu Wang<sup>✉️</sup>, Yanfeng Wang
 - [ACL 2024 Main] [[link]](https://aclanthology.org/2024.acl-long.489/) [[project]](https://jack-zc8.github.io/M3AV-dataset-page) [**[机器之心]**](https://mp.weixin.qq.com/s/UQ2P5AFm7yhjFm2lc70O8g)
