@@ -37,13 +37,13 @@ My research area lies at:
 <span class='anchor' id='publications'></span>
 # 📝 Publications
 
-**Towards Omni-RAG: Comprehensive Retrieval-Augmented Generation for Large Language Models in Medical Applications**
-- `Zhe Chen`, Yusheng Liao, Shuyang Jiang, Pingjie Wang, Yiqiu Guo, Yanfeng Wang, Yu Wang<sup>✉️</sup>
-- [ACL 2025 Main] [[link]](https://aclanthology.org/2025.acl-long.742/)
-
 **HeteroRAG: A Heterogeneous Retrieval-Augmented Generation Framework for Medical Vision Language Tasks**
 - `Zhe Chen`, Yusheng Liao, Shuyang Jiang, Zhiyuan Zhu, Haolin Li, Yanfeng Wang, Yu Wang<sup>✉️</sup>
 - [Arxiv Preprint 2025] [[link]](https://arxiv.org/abs/2508.12778)
+
+**Towards Omni-RAG: Comprehensive Retrieval-Augmented Generation for Large Language Models in Medical Applications**
+- `Zhe Chen`, Yusheng Liao, Shuyang Jiang, Pingjie Wang, Yiqiu Guo, Yanfeng Wang, Yu Wang<sup>✉️</sup>
+- [ACL 2025 Main] [[link]](https://aclanthology.org/2025.acl-long.742/)
 
 **M<sup>3</sup>AV: A Multimodal, Multigenre, and Multipurpose Audio-Visual Academic Lecture Dataset**
 - `Zhe Chen`, Heyang Liu, Wenyi Yu, Guangzhi Sun, Hongcheng Liu, Ji Wu, Chao Zhang<sup>✉️</sup>, Yu Wang<sup>✉️</sup>, Yanfeng Wang
