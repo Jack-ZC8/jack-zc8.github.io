@@ -101,3 +101,4 @@ My research area lies at:
 <span class='anchor' id='experience'></span>
 # 💻 Work Experience
 - *2024.03 - 2025.09*, Intern, Shanghai AI Lab, Shanghai, China
+- *2021.06 - 2021.09*, Intern, Shanghai AI Lab, Shanghai, China
